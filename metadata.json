@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Thumbnail Generator",
+  "description": "Generate stunning YouTube thumbnails for your videos using AI. Simply provide the video topic, context, and a catchy title to create a high-quality, click-worthy thumbnail.",
+  "requestFramePermissions": []
+}
